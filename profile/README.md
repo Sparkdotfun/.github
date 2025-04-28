@@ -1,4 +1,5 @@
-SPARK
+**SPARK**
+
 The Instant Launchpad for the Next Wave of Builders
 
 Spark is a permissionless launchpad that enables anyone on Solana to create and launch their own token in seconds. It offers a sustainable, transparent framework where keyholders are protected from capital loss, and builders can bootstrap real communities — fast, fair, and without middlemen.
